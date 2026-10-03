@@ -1,12 +1,6 @@
-# Private lab diary: stays on the local machine, never published
-diario_laboratorio.md
-
-# Model weights: download them, do not commit them
+# Model weights (tens of GB): download them, do not commit them
 gguf/
 
 # Secrets and OS files
 .env
 .DS_Store
-
-# Legacy notes with real addresses, kept only in the local archive
-readme.it.md
